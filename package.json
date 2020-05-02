@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "demo.js",
+  "repository": "https://github.com/pavanigoud/demo.git",
+  "author": "Pavani Nemuri <pavaninemuri8@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
