@@ -8,6 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
   }
 }
